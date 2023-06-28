@@ -1,17 +1,16 @@
 ### Hi there 👋
 
-**misim3/misim3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하세요, 심민식입니다.
 
-Here are some ideas to get you started:
-
-- 🔭 저는 현재 인천대학교 3학년에 재학 중입니다. 그리고 42 seoul도 병행하고 있습니다.
-- 🌱 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 현재 인천대학교 3학년에 재학 중입니다. 그리고 42 seoul도 병행하고 있습니다.
+- 🌱 요즘은 책임감에 대해 배우고 있습니다.
+- 👯 산업기능요원 복무를 위해 취업 준비를 하고 있습니다.
+- 🤔 답답할 때, 달리기를 좋아합니다.
+<--
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 
 [![misim3's GitHub stats](https://github-readme-stats.vercel.app/api?username=misim3)](https://github.com/anuraghazra/github-readme-stats)
